@@ -1,2 +1,3 @@
-root_url: src
-media: src
+prose:
+  root_url: src
+  media: src
